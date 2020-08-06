@@ -1,6 +1,4 @@
 /*
-QUESTION:
-
 Employee Table:
     +----+--------+--------------+
     | Id | Salary | DepartmentId |
@@ -166,7 +164,7 @@ CREATE TABLE IF NOT EXISTS Employee
     DepartmentId INT
 );
 
-INSERT INTO TABLE Employee (Id, Salary, DepartmentId)
+INSERT INTO Employee (Id, Salary, DepartmentId)
 VALUES (1, 100, 1), (2, 200, 1), (3, 300, 2), (4, 300, 2), (5, 250, 2);
 
 
