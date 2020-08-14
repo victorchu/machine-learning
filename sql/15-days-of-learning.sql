@@ -40,8 +40,6 @@ INSERT INTO Hackers VALUES
 DROP TABLE IF EXISTS Submissions;
 CREATE TABLE IF NOT EXISTS Submissions (
     submission_date DATE, submission_id INT, hacker_id INT, score INT);
-
-TRUNCATE TABLE Submissions;
 INSERT INTO Submissions VALUES 
     ('2016-03-01',  8494, 20703, 0),
     ('2016-03-01', 23965, 53473, 60),
