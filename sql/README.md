@@ -1,7 +1,5 @@
-Design
-======
-
-## Easy
+SQL
+===
 
 ## Medium
 
