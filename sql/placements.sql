@@ -11,7 +11,7 @@ TASK:
   - It is guaranteed that no two students got same salary offer.
 
 REF:
-  - https://www.hackerrank.com/challenges/placements/forum
+  - https://www.hackerrank.com/challenges/placements/problem (Medium)
 */
 
 -- Structured approach

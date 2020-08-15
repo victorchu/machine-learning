@@ -1,7 +1,7 @@
 /*
 QUESTION:
 
-Write a SQL query to get the nth highest salary from the Employee table.
+Write a SQL function to get the nth highest salary from the Employee table.
 
     +----+--------+
     | Id | Salary |

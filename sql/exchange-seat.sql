@@ -29,7 +29,7 @@ Output:
     +------+---------+
 
 Ref:
-  - https://leetcode.com/problems/exchange-seats/
+  - https://leetcode.com/problems/exchange-seats/ (Medium)
 
 */
 

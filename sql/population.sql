@@ -2,7 +2,7 @@
 CITY & COUNTRY
 
 REF: 
-  - https://www.hackerrank.com/challenges/average-population-of-each-continent/problem
+  - https://www.hackerrank.com/challenges/average-population-of-each-continent/problem (Easy)
 */
 
 -- -------

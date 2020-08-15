@@ -1,7 +1,7 @@
 /*
 Symmetric Pairs
 
-https://www.hackerrank.com/challenges/symmetric-pairs/problem
+https://www.hackerrank.com/challenges/symmetric-pairs/problem (Medium)
 */
 
 -- DATA

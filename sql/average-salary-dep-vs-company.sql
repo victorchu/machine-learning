@@ -33,7 +33,7 @@ So for the sample data above, the result is:
 | 2017-02   | 2             | same        |
 
 Ref:
-  - https://leetcode.com/problems/average-salary-departments-vs-company/ (Medium)
+  - https://leetcode.com/problems/average-salary-departments-vs-company/ (Hard)
 
 */
 

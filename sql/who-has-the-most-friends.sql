@@ -1,7 +1,8 @@
 /*
 QUESTION:
 
-In social network like Facebook or Twitter, people send friend requests and accept others' requests as well.
+In social network like Facebook or Twitter, people send friend requests and
+accept others' requests as well.
 
     Table: request_accepted
     +--------------+-------------+------------+
@@ -13,10 +14,11 @@ In social network like Facebook or Twitter, people send friend requests and acce
     | 3            | 4           | 2016-06-09 |
     +--------------+-------------+------------+
 
-This table holds the data of friend acceptance, while requester_id and accepter_id both are the id of a person
+This table holds the data of friend acceptance, while requester_id and
+accepter_id both are the id of a person
 
-Write a query to find the the people who has most friends
-and the most friends number under the following rules:
+Write a query to find the people who has most friends and the most friends
+number under the following rules:
 
   - It is guaranteed there is only 1 people having the most friends.
   - The friend request could only been accepted once, 
@@ -35,11 +37,12 @@ The person with id '3' is a friend of people '1', '2' and '4',
 so he has 3 friends in total, which is the most number than any others.
 
 VARIATIONS:
-  - In the real world, multiple people could have the same most number of friends, can you find all these people in this case?
+  - In the real world, multiple people could have the same most number of
+  friends, can you find all these people in this case?
 
 REFERENCE:
-  - https://nifannn.github.io/2017/10/27/SQL-Notes-Leetcode-602-Friend-Requests-2-Who-Has-the-Most-Friends/
-  - https://www.techonthenet.com/mysql/union_all.php
+  - https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/ (Medium)
+
 */
 
 

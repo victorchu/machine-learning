@@ -1,5 +1,5 @@
 /*
-Recursive WITH (Common Table Expressions).
+Recursive CTE (Common Table Expressions).
 
 REFERENCE:
   - https://dev.mysql.com/doc/refman/8.0/en/with.html

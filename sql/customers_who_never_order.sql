@@ -39,7 +39,7 @@ TECHNIQUES:
   - WITH cte AS (...)
 
 REFERENCE:
-  - https://leetcode.com/articles/customers-who-never-order/
+  - https://leetcode.com/articles/customers-who-never-order/ (Easy)
 
 */
 
