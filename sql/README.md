@@ -81,17 +81,35 @@ SQL
 + [Find Median Given Frequency of Numbers](find-median-given-frequency-of-numbers.sql)
   - Find the median given a (number, frequency) table.
 
++ [Game Play Analysis V](game-play-analysis-v.sql)
+  - Find the day 1 retention rates.
+
 + [Human Traffic of Statium](human-traffic-of-stadium.sql)
   - Display the records which have 3 or more consecutive rows and the amount of people more than 100 (inclusive).
 
 + [Interviews](interviews.sql)
   - Get statistics of coding challenges and contests by by candidates.
 
++ [Market Analysis II](market-analysis-ii.sql)
+  - Check if the brand of the 2nd sold item from each seller is of their favorite brand.
+
++ [Median Employe Salary](median-employee-salary.sql)
+  - Find median salaries for each company.
+
 + [Number of Transactions per Visit](number-of-transactions-per-visit.sql)
   - Get (transaction count, visit count)
 
++ [Report Contiguous Dates](report-contiguous-dates.sql):
+  - Identify contiguous date periods in the logs.
+
 + [Sales by Day of the Week](sales-by-day-of-the-week.sql)
   - Get sales for each (category, day of week) combination.
+
++ [Students Report By Geography](students-report-by-geography.sql)
+  - Pivot table.
+
++ [Tournament Winners](tournament-winners.sql)
+  - Find the tournament winner in each group. 
 
 + [User Purchase Platform](user-purchase-platform.sql)
   - Get purchase data for each (date, platform)
